@@ -32,7 +32,8 @@ En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech L
        non-verbale des partenaires dans des contextes potentiellement internationaux
        et interculturels 
 
- - ### <ins> En lien avec mon double-diplôme en M2IA </ins> :
+
+ - ### <ins> En lien avec mon double-diplôme en M2IA </ins>
    - pour le traitement d'image : (Projet en cours, accès à venir...)
    - pour l'UE LLM : [la proposition de projet soumise rédigé en LaTex via Overleaf](https://fr.overleaf.com/read/nqwkrvhpttbq#0cb8d1) (Projet en cours, accès à venir...)
 
