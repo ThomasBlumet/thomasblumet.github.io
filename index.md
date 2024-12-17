@@ -26,22 +26,16 @@ En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech L
       informations bibliographiques, scientifiques, techniques ou relatives à la
       production
     - Rendre compte, mettre en forme et échanger idées ou informations sous
-      différentes formes, orales ou écrites, en présentiel et à distance
+      différentes formes, orales ou écrites, en présentiel et à distance : cf 
+      [Diaporama de soutenance](https://fr.overleaf.com/read/dhzshcrrqjvv#4367e8)|[Rapport interne](https://fr.overleaf.com/read/tccvqrrxbkgj#fb8671)|[Rapport de stage](https://fr.overleaf.com/read/hjppxsqmhmxx#c49326)
     - Communiquer en langue étrangère, m'adapter à la communication verbale et
       non-verbale des partenaires dans des contextes potentiellement internationaux
-      et interculturels [Document de soutenance](https://fr.overleaf.com/read/dhzshcrrqjvv#4367e8) [Rapport interne](https://fr.overleaf.com/read/tccvqrrxbkgj#fb8671) [Rapport de stage](https://fr.overleaf.com/read/hjppxsqmhmxx#c49326)
-    - De prendre du recul et gérer mon projet professionnel au fil du temps
+      et interculturels 
 
  - ### <ins> En lien avec mon double-diplôme en M2IA </ins> :
-  - pour le traitement d'image : les repositories des TPs (en cours de réalisation pour certains)
-  - pour l'UE LLM : [la proposition de projet soumise rédigé en LaTex via Overleaf](https://fr.overleaf.com/read/nqwkrvhpttbq#0cb8d1)
-    
-Pour la compétence de rédaction de rapport :
-
-Autres : ma participation aux repositories suivants
+   - pour le traitement d'image : (Projet en cours, accès à venir...)
+   - pour l'UE LLM : [la proposition de projet soumise rédigé en LaTex via Overleaf](https://fr.overleaf.com/read/nqwkrvhpttbq#0cb8d1) (Projet en cours, accès à venir...)
 
 ## 🛰️ Contact
 ![linkedin_icon](my-pages-img/linkedin.svg) : **[Mon profil LinkedIn](https://www.linkedin.com/in/thomas-blumet/)**
-
-## Notes & Annexes
 
