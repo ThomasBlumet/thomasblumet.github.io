@@ -1,9 +1,8 @@
 
 <img src="my-pages-img/githubpages_banner.PNG" alt="banner" width="2000" height="300">
 
-<h1 style="text-align:center;"> Bienvenue sur mon site  ! </h1>
-
 ## Général
+
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ThomasBlumet&show_icons=true&theme=radical)
 
 ### 🚀 Mes objectifs professionnels
@@ -33,23 +32,16 @@ En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech L
       et interculturels [Document de soutenance](https://fr.overleaf.com/read/dhzshcrrqjvv#4367e8) [Rapport interne](https://fr.overleaf.com/read/tccvqrrxbkgj#fb8671) [Rapport de stage](https://fr.overleaf.com/read/hjppxsqmhmxx#c49326)
     - De prendre du recul et gérer mon projet professionnel au fil du temps
 
-### Job d'été :
-  - S'intégrer dans une organisation en prenant en compte les outils et enjeux
-    économiques de l'entreprise : respect de la qualité, compétitivité et
-    productivité, exigences commerciales
-  - S’investir, faire preuve d'initiative et d’agilité tout en reconnaissant les
-    situations générant stress et tensions et en agissant avec empathie
-
-En lien avec mon double-diplôme en M2IA :
-  - pour le traitement d'image : les repositories des TPs
-  - pour les LLM : [la proposition de projet soumise pour l'UE](https://fr.overleaf.com/read/nqwkrvhpttbq#0cb8d1)
+ - ### <ins> En lien avec mon double-diplôme en M2IA </ins> :
+  - pour le traitement d'image : les repositories des TPs (en cours de réalisation pour certains)
+  - pour l'UE LLM : [la proposition de projet soumise rédigé en LaTex via Overleaf](https://fr.overleaf.com/read/nqwkrvhpttbq#0cb8d1)
     
 Pour la compétence de rédaction de rapport :
 
 Autres : ma participation aux repositories suivants
 
 ## 🛰️ Contact
-![linkedin_icon](my-pages-img/linkedin.svg) : **[Compte LinkedIn](https://www.linkedin.com/in/thomas-blumet/)**
+![linkedin_icon](my-pages-img/linkedin.svg) : **[Mon profil LinkedIn](https://www.linkedin.com/in/thomas-blumet/)**
 
 ## Notes & Annexes
 
