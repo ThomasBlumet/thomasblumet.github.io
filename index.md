@@ -1,7 +1,7 @@
 
 <img src="my-pages-img/githubpages_banner.PNG" alt="banner" width="2000" height="300">
 
-# Bienvenue sur ma page de profil Github !
+<h1 style="text-align:center;"> Bienvenue sur mon site  ! </h1>
 
 ## Général
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ThomasBlumet&show_icons=true&theme=radical)
@@ -14,7 +14,8 @@ Ayant une spécification pour mon diplôme d’ingénieur généraliste en infor
 
 Mais dans l’optique d’un apprentissage constant et d’un enrichissement de mes connaissances, en tenant compte des changements les plus probables et conséquents qui vont apparaître dans le domaine de l’informatique, je souhaiterais acquérir des compétences en lien avec le domaine de l’informatique quantique.
 
-## 📎Mes compétences
+## Portfolio 📁
+### 📎Mes compétences
 En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech Lyon](https://www.francecompetences.fr/recherche/rncp/36354/)
 
  - ### <ins> Mon stage de 4A </ins>
