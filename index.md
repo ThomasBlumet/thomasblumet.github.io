@@ -18,19 +18,19 @@ Mais dans l’optique d’un apprentissage constant et d’un enrichissement de 
 En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech Lyon](https://www.francecompetences.fr/recherche/rncp/36354/)
 
  - ### <ins> Mon stage de 4A </ins>
-  Lors de mon stage de 4A, j'ai su mettre en oeuvre les compétences suivantes:
+   Lors de mon stage de 4A, j'ai su mettre en oeuvre les compétences suivantes:
     - M'investir, faire preuve d'initiative et d’agilité tout en reconnaissant les
-      situations générant stress et tensions et en agissant avec empathie
+       situations générant stress et tensions et en agissant avec empathie
     - Rendre compte de mon travail, capitaliser savoir et expérience
     - Collecter et traiter des données : rechercher, évaluer, classer et exploiter des
-      informations bibliographiques, scientifiques, techniques ou relatives à la
-      production
+       informations bibliographiques, scientifiques, techniques ou relatives à la
+       production
     - Rendre compte, mettre en forme et échanger idées ou informations sous
-      différentes formes, orales ou écrites, en présentiel et à distance : cf 
-      [Diaporama de soutenance](https://fr.overleaf.com/read/dhzshcrrqjvv#4367e8)|[Rapport interne](https://fr.overleaf.com/read/tccvqrrxbkgj#fb8671)|[Rapport de stage](https://fr.overleaf.com/read/hjppxsqmhmxx#c49326)
+       différentes formes, orales ou écrites, en présentiel et à distance → cf 
+       [Diaporama de soutenance](https://fr.overleaf.com/read/dhzshcrrqjvv#4367e8) | [Rapport interne](https://fr.overleaf.com/read/tccvqrrxbkgj#fb8671) | [Rapport de stage](https://fr.overleaf.com/read/hjppxsqmhmxx#c49326)
     - Communiquer en langue étrangère, m'adapter à la communication verbale et
-      non-verbale des partenaires dans des contextes potentiellement internationaux
-      et interculturels 
+       non-verbale des partenaires dans des contextes potentiellement internationaux
+       et interculturels 
 
  - ### <ins> En lien avec mon double-diplôme en M2IA </ins> :
    - pour le traitement d'image : (Projet en cours, accès à venir...)
