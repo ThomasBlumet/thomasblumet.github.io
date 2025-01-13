@@ -35,8 +35,7 @@ En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech L
 
  - ### <ins> En lien avec mon double-diplôme en M2IA </ins>
    #### UE Traitement d'image & Deep Learning :
-    ##### [TP : Posture-guided image synthesis of a person]()
-
+    ##### [TP : Posture-guided image synthesis of a person](https://github.com/ThomasBlumet/M2IA_TPAM_Skeleton)
     
     
     ##### [TP : Style Transfer]()
