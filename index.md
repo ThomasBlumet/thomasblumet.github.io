@@ -34,9 +34,28 @@ En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech L
 
 
  - ### <ins> En lien avec mon double-diplôme en M2IA </ins>
-   - pour le traitement d'image : (Projet en cours, accès à venir...)
-   - pour l'UE LLM : [la proposition de projet soumise rédigé en LaTex via Overleaf](https://fr.overleaf.com/read/nqwkrvhpttbq#0cb8d1) (Projet en cours, accès à venir...)
+   #### UE Traitement d'image & Deep Learning :
+    ##### [TP : Posture-guided image synthesis of a person]()
+
+    
+    
+    ##### [TP : Style Transfer]()
+
+    ##### [TP : Implicit Neural Reconstruction]()
+    ##### [TP : Prior Neural Network]()
+    ##### [TP : Style Transfer]()
+     
+    #### UE LLM (Large Language Model) :
+     - [la proposition de projet soumise rédigé en LaTex via Overleaf](https://fr.overleaf.com/read/nqwkrvhpttbq#0cb8d1)
+     - Vidéo de démo :
+       - [![vidéo démo](https://img.youtube.com/vi/T2vVyhk1OBo/0.jpg)](https://www.youtube.com/embed/T2vVyhk1OBo?si=U9Uq85fpUCYrrGdC)
+     - Repository du projet : (accès à venir...)
+
+- ### <ins> D'autres repositories </ins>
+  #### [Projet Transfert Learning : réseau de neurone convolutionnel (CNN) YOLO pour le jeu du Pierre-Feuille-Ciseau](https://github.com/florianBurdairon/PolytechTP5AHandGestureGames/tree/main)
+  - Vidéo de démo :
+   - [![vidéo démo](https://img.youtube.com/vi/ReloVy038hk/0.jpg)](https://www.youtube.com/embed/ReloVy038hk?si=sfJW1PBMoYLW4kXn)
+  #### (En cours d'ajout)
 
 ## 🛰️ Contact
-![linkedin_icon](my-pages-img/linkedin.svg) : **[Mon profil LinkedIn](https://www.linkedin.com/in/thomas-blumet/)**
-
+ **[![linkedin_icon](my-pages-img/linkedin.svg)](https://www.linkedin.com/in/thomas-blumet/)**
