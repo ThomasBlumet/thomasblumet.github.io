@@ -35,14 +35,14 @@ En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech L
 
  - ### <ins> En lien avec mon double-diplôme en M2IA </ins>
    #### UE Traitement d'image & Deep Learning :
-    ##### [TP : Posture-guided image synthesis of a person](https://github.com/ThomasBlumet/M2IA_TPAM_Skeleton)
+    #### [TP : Posture-guided image synthesis of a person](https://github.com/ThomasBlumet/M2IA_TPAM_Skeleton)
     ![](my-pages-img/GIF/GIF_TP_AM.gif)
     
-    ##### [TP : Style Transfer]()
+    #### [TP : Style Transfer](https://github.com/ThomasBlumet/M2IA_TPAM_StyleTransfer)
 
-    ##### [TP : Implicit Neural Reconstruction]()
-    ##### [TP : Prior Neural Network]()
-    ##### [TP : Style Transfer]()
+    #### [TP : Implicit Neural Reconstruction]()
+    #### [TP : Prior Neural Network]()
+    #### [TP : Style Transfer]()
      
     #### UE LLM (Large Language Model) :
      - [la proposition de projet soumise rédigé en LaTex via Overleaf](https://fr.overleaf.com/read/nqwkrvhpttbq#0cb8d1)
@@ -54,6 +54,10 @@ En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech L
   #### [Projet Transfert Learning : réseau de neurone convolutionnel (CNN) YOLO pour le jeu du Pierre-Feuille-Ciseau](https://github.com/florianBurdairon/PolytechTP5AHandGestureGames/tree/main)
   - Vidéo de démo :
    - [![vidéo démo](https://img.youtube.com/vi/ReloVy038hk/0.jpg)](https://www.youtube.com/embed/ReloVy038hk?si=sfJW1PBMoYLW4kXn)
+  #### Projet IoT : réalisation d'une cafetière connectée
+    - [Partie rapport](https://github.com/florianBurdairon/polytech-iot-coffeemachine-report)
+    - [Partie Hardware - ESP32](https://github.com/florianBurdairon/polytech-iot-coffeemachine-esp)
+    - [Partie Software - Application Android](https://github.com/florianBurdairon/polytech-iot-coffeemachine-android)
   #### (En cours d'ajout)
 
 ## 🛰️ Contact
