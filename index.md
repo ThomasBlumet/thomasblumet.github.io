@@ -32,7 +32,8 @@ En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech L
     
 ## <ins> En lien avec mon double-diplôme en M2IA : </ins>
 
-  ### UE Traitement d'image & Deep Learning :
+### UE Traitement d'image & Deep Learning :
+  
    **[TP : Posture-guided image synthesis of a person](https://github.com/ThomasBlumet/M2IA_TPAM_Skeleton)**
    - ![gif_tp](my-pages-img/GIF/GIF_TP_AM.gif)
    
@@ -47,7 +48,7 @@ En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech L
    **[TP : Diffusion for images ](https://github.com/ThomasBlumet/M2IA_TPNB_Diffusion)**
   
      
- ### UE LLM (Large Language Model) :
+### UE LLM (Large Language Model) :
    - [la proposition de projet soumise rédigée en LaTex via Overleaf](https://fr.overleaf.com/read/nqwkrvhpttbq#0cb8d1)
    - Vidéo de démo :
      - [![vidéo démo](https://img.youtube.com/vi/T2vVyhk1OBo/0.jpg)](https://www.youtube.com/embed/T2vVyhk1OBo?si=U9Uq85fpUCYrrGdC)
