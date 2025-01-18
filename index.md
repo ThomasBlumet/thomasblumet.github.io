@@ -33,13 +33,15 @@ En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech L
     ### [TP : Posture-guided image synthesis of a person](https://github.com/ThomasBlumet/M2IA_TPAM_Skeleton)
     ![gif_tp](my-pages-img/GIF/GIF_TP_AM.gif)
     
-    ### [TP : Style Transfer](https://github.com/ThomasBlumet/M2IA_TPAM_StyleTransfer)
+    **[TP : Style Transfer](https://github.com/ThomasBlumet/M2IA_TPAM_StyleTransfer)**
  
-    ### [TP : Implicit Neural Reconstruction]()
+    **[TP : Implicit Neural Reconstruction](https://github.com/ThomasBlumet/M2IA_TPJD_INR)**
    
-    ### [TP : Prior Neural Network]()
+    **[TP : Deep Neural Prior Network](https://github.com/ThomasBlumet/M2IA_TPJD_DNPrior)**
    
-    ### [TP : Style Transfer]()
+    **[TP : PointNet ](https://github.com/ThomasBlumet/M2IA_TPJD_PointNet)**
+   
+    **[TP : Diffusion for images ](https://github.com/ThomasBlumet/M2IA_TPNB_Diffusion)**
    
      
    ### UE LLM (Large Language Model) :
