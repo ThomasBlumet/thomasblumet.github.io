@@ -17,49 +17,54 @@ Mais dans l’optique d’un apprentissage constant et d’un enrichissement de 
 ## 📎Mes compétences
 En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech Lyon](https://www.francecompetences.fr/recherche/rncp/36354/)
 
- - ## <ins> Mon stage de 4A : </ins>
+## <ins> Mon stage de 4A : </ins>
    <img src="https://www-live.dfki.de/fileadmin/user_upload/DFKI/Medien/Logos/Logos_DFKI/DFKI_Logo_d_schrift_FB_315x600.jpg" width=200/>
    
    Réalisé au centre DFKI de Kaiserlautern (Allemagne).
    
    À ce titre :
-     - [Diaporama de soutenance](https://fr.overleaf.com/read/dhzshcrrqjvv#4367e8)
-     - [Rapport interne au centre](https://fr.overleaf.com/read/tccvqrrxbkgj#fb8671)
-     - [Rapport de stage](https://fr.overleaf.com/read/hjppxsqmhmxx#c49326)
+   - [Diaporama de soutenance](https://fr.overleaf.com/read/dhzshcrrqjvv#4367e8)
+   
+   - [Rapport interne au centre](https://fr.overleaf.com/read/tccvqrrxbkgj#fb8671)
+   
+   - [Rapport de stage](https://fr.overleaf.com/read/hjppxsqmhmxx#c49326)
 
     
- - ## <ins> En lien avec mon double-diplôme en M2IA : </ins>
-   ### UE Traitement d'image & Deep Learning :
-    ### [TP : Posture-guided image synthesis of a person](https://github.com/ThomasBlumet/M2IA_TPAM_Skeleton)
-    ![gif_tp](my-pages-img/GIF/GIF_TP_AM.gif)
-    
-    **[TP : Style Transfer](https://github.com/ThomasBlumet/M2IA_TPAM_StyleTransfer)**
- 
-    **[TP : Implicit Neural Reconstruction](https://github.com/ThomasBlumet/M2IA_TPJD_INR)**
+## <ins> En lien avec mon double-diplôme en M2IA : </ins>
+
+  ### UE Traitement d'image & Deep Learning :
+   **[TP : Posture-guided image synthesis of a person](https://github.com/ThomasBlumet/M2IA_TPAM_Skeleton)**
+   - ![gif_tp](my-pages-img/GIF/GIF_TP_AM.gif)
    
-    **[TP : Deep Neural Prior Network](https://github.com/ThomasBlumet/M2IA_TPJD_DNPrior)**
-   
-    **[TP : PointNet ](https://github.com/ThomasBlumet/M2IA_TPJD_PointNet)**
-   
-    **[TP : Diffusion for images ](https://github.com/ThomasBlumet/M2IA_TPNB_Diffusion)**
-   
+   **[TP : Style Transfer](https://github.com/ThomasBlumet/M2IA_TPAM_StyleTransfer)**
+
+   **[TP : Implicit Neural Reconstruction](https://github.com/ThomasBlumet/M2IA_TPJD_INR)**
+  
+   **[TP : Deep Neural Prior Network](https://github.com/ThomasBlumet/M2IA_TPJD_DNPrior)**
+  
+   **[TP : PointNet ](https://github.com/ThomasBlumet/M2IA_TPJD_PointNet)**
+  
+   **[TP : Diffusion for images ](https://github.com/ThomasBlumet/M2IA_TPNB_Diffusion)**
+  
      
-   ### UE LLM (Large Language Model) :
-     - [la proposition de projet soumise rédigé en LaTex via Overleaf](https://fr.overleaf.com/read/nqwkrvhpttbq#0cb8d1)
-     - Vidéo de démo :
-       - [![vidéo démo](https://img.youtube.com/vi/T2vVyhk1OBo/0.jpg)](https://www.youtube.com/embed/T2vVyhk1OBo?si=U9Uq85fpUCYrrGdC)
-     - Repository du projet : (accès à venir...)
+ ### UE LLM (Large Language Model) :
+   - [la proposition de projet soumise rédigée en LaTex via Overleaf](https://fr.overleaf.com/read/nqwkrvhpttbq#0cb8d1)
+   - Vidéo de démo :
+     - [![vidéo démo](https://img.youtube.com/vi/T2vVyhk1OBo/0.jpg)](https://www.youtube.com/embed/T2vVyhk1OBo?si=U9Uq85fpUCYrrGdC)
+   - Repository du projet : (accès à venir...)
 
- - ## <ins> D'autres repositories : </ins>
- ###[Projet Transfert Learning : réseau de neurone convolutionnel (CNN) YOLO pour le jeu du Pierre-Feuille-Ciseau](https://github.com/florianBurdairon/PolytechTP5AHandGestureGames/tree/main)
-  - Vidéo de démo : [![vidéo démo](https://img.youtube.com/vi/ReloVy038hk/0.jpg)](https://www.youtube.com/embed/ReloVy038hk?si=sfJW1PBMoYLW4kXn)
-    
-  ### Projet IoT : réalisation d'une cafetière connectée
+## <ins> D'autres repositories : </ins>
+
+### [Projet Transfert Learning : réseau de neurone convolutionnel (CNN) YOLO pour le jeu du Pierre-Feuille-Ciseau](https://github.com/florianBurdairon/PolytechTP5AHandGestureGames/tree/main)
+  - Vidéo de démo :
+  -  [![vidéo démo](https://img.youtube.com/vi/ReloVy038hk/0.jpg)](https://www.youtube.com/embed/ReloVy038hk?si=sfJW1PBMoYLW4kXn)
+
+### Projet IoT : réalisation d'une cafetière connectée
    - [Partie rapport](https://github.com/florianBurdairon/polytech-iot-coffeemachine-report)
    - [Partie Hardware - ESP32](https://github.com/florianBurdairon/polytech-iot-coffeemachine-esp)
    - [Partie Software - Application Android](https://github.com/florianBurdairon/polytech-iot-coffeemachine-android)
-     
-  ### (À venir : projets en cours de réalisation)
+
+### (À venir : projets en cours de réalisation)
 
 ## 🛰️ Contact
  **[![linkedin_icon](my-pages-img/linkedin.svg)](https://www.linkedin.com/in/thomas-blumet/)**
