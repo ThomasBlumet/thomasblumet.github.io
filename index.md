@@ -51,7 +51,7 @@ En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech L
      - Repository du projet : (accès à venir...)
 
  - ## <ins> D'autres repositories : </ins>
-  ### [Projet Transfert Learning : réseau de neurone convolutionnel (CNN) YOLO pour le jeu du Pierre-Feuille-Ciseau](https://github.com/florianBurdairon/PolytechTP5AHandGestureGames/tree/main)
+ ###[Projet Transfert Learning : réseau de neurone convolutionnel (CNN) YOLO pour le jeu du Pierre-Feuille-Ciseau](https://github.com/florianBurdairon/PolytechTP5AHandGestureGames/tree/main)
   - Vidéo de démo : [![vidéo démo](https://img.youtube.com/vi/ReloVy038hk/0.jpg)](https://www.youtube.com/embed/ReloVy038hk?si=sfJW1PBMoYLW4kXn)
     
   ### Projet IoT : réalisation d'une cafetière connectée
