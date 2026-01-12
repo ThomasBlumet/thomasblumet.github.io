@@ -77,3 +77,4 @@ En lien avec la fiche RNCP de la [formation d'ingénieur informatique Polytech L
 
 ## 🛰️ Contact
  **[![linkedin_icon](my-pages-img/linkedin.svg)](https://www.linkedin.com/in/thomas-blumet/)**
+ **[![lgithub_icon](my-pages-img/github.svg)](https://github.com/ThomasBlumet)**
